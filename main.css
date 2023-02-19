@@ -1,0 +1,15 @@
+.card-body{
+    padding: 3px;
+}
+.card-footer{
+    padding: 1px;
+}
+.thumb{
+padding: 1px;
+height: 200px;
+
+}
+
+#info{
+    display: none;
+}
